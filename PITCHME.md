@@ -5,7 +5,6 @@
 우리는 FriDay입니다.
 
 ### **SAFFY 1반**
----?image=https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201804/12/healthchosun/20180412174352729fabo.jpg
 +++
 ## 강민지
 
