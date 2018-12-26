@@ -1,3 +1,7 @@
+---
+title: 1 
+---
+
 # [1주차 Reflection] - 화요일 
 
 ## 1. hello! SW world
