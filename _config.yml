@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 title                    : "Friday"
-title_separator          : "Sample | Awesome"
+title_separator          : " - "
 name                     : "Friday"
 description              : "매일 금요일처럼 놀고 싶다"
 url                      : "https://domw324.github.io"
